@@ -1,5 +1,16 @@
 <h1 align="center"> Hello everyone - I'm Lê Đinh Ngọc Thành</h1>
+<img align="right" alt="night sky" width="400" src="https://giphy.com/embed/2IudUHdI075HL02Pkk">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ThanhCoder0703&label=Profile%20views&color=0e75b6&style=flat" alt="ThanhCoder0703" /> </p>
 
+<p align="left"> <a href="https://twitter.com/ThanhCoder0703" target="blank"><img src="https://img.shields.io/twitter/follow/ThanhCoder0703?logo=twitter&style=for-the-badge" alt="ThanhCoder0703" /></a> </p>
+
+- - I'm currently a university student
+
+- 🌱 I'm currently a rd year student at Ho Chi Minh City University of Transport.
+
+- 👨‍💻 All of my projects are available at [https://github.com/ThanhCode0703?tab=repositories](https://github.com/ThanhCode0703?tab=repositories)
+
+- *Catchphrase ** 𝚠𝚑𝚊𝚝 𝚍𝚘𝚎𝚜𝚗'𝚝 𝚔𝚒𝚕𝚕 𝚢𝚘𝚞 𝚖𝚊𝚔𝚎𝚜 𝚢𝚘𝚞 𝚜𝚝𝚛𝚘𝚗𝚐𝚎 **
 
 
 <h3 align="left">Connect with me:</h3>
