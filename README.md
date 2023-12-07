@@ -1,5 +1,5 @@
 <h1 align="center"> Hello everyone - I'm Lê Đinh Ngọc Thành</h1>
-<img align="right" alt="night sky" width="400" src="https://giphy.com/embed/2IudUHdI075HL02Pkk">
+<iframe src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThanhCoder0703&label=Profile%20views&color=0e75b6&style=flat" alt="ThanhCoder0703" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ThanhCoder0703" target="blank"><img src="https://img.shields.io/twitter/follow/ThanhCoder0703?logo=twitter&style=for-the-badge" alt="ThanhCoder0703" /></a> </p>
